@@ -27,7 +27,14 @@ https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predicti
 - query Twitter's API using Tweepy and save the JSON data to text
 
 
-#### *Key Points*
-- We only want original tweets (no retweets) that have images
-- The fact that the rating numerators are greater than the denominators does not need to be cleaned. This unique rating system is a big part of the popularity of *WeRateDogs*.
-- Tweets do not extend beyond August 1, 2017
+### Imports
+import numpy as np
+import pandas as pd
+import requests
+import os
+import tweepy
+import wptools
+import json
+from timeit import default_timer as timer
+import matplotlib.pyplot as plt
+import seaborn as sns

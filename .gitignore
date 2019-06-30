@@ -1,0 +1,12 @@
+# Tweepy credentials
+creds.py
+__pycache__/
+
+# ipynb checkpoints
+.ipynb_checkpoints/
+
+# data
+data/
+
+
+

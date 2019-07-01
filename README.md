@@ -14,6 +14,11 @@ Finally the data is explored, guided by question
 How do the Dog Rating Tweets relate to the popularity and phenomenal success of
 *WeRateDogs* Twitter account?
 
+### Analysis and Report Files
+1. **Wrangle and Analysis:**  wrangle_act.ipynb
+2. **Data cleaning summary:**  wrangle_report.pdf
+3. **Report in style of an article:**  act_report.pdf
+
 ### Datasets
 1. File on hand: `twitter-archive-enhanced.csv`
 - WeRateDogs Twitter archive supplied by Udacity

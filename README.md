@@ -15,9 +15,9 @@ How do the Dog Rating Tweets relate to the popularity and phenomenal success of
 *WeRateDogs* Twitter account?
 
 ### Analysis and Report Files
-1. **Wrangle and Analysis:**  wrangle_act.ipynb
-2. **Data cleaning summary:**  wrangle_report.pdf
-3. **Report in style of an article:**  act_report.pdf
+1. [**Wrangle and Analysis:**  wrangle_act.ipynb](https://github.com/JenniferRomana/we_rate_dogs_PYTHON/blob/master/wrangle_act.ipynb)
+2. [**Data cleaning summary:**  wrangle_report.pdf](https://github.com/JenniferRomana/we_rate_dogs_PYTHON/blob/master/wrangle_report.pdf)
+3. [**Report in style of an article:**  act_report.pdf](https://github.com/JenniferRomana/we_rate_dogs_PYTHON/blob/master/act_report.pdf)
 
 ### Datasets
 1. File on hand: `twitter-archive-enhanced.csv`
